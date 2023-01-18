@@ -9,12 +9,12 @@ guiando al caballito con el dedo. Con el fin de recolectar todas las monedas ant
 ![image](https://i.imgur.com/fAvbbc0.png)
 
 # Juego en movimiento
-![image](https://imgur.com/WL6EKIt)
+![image](https://i.imgur.com/WL6EKIt.png)
 
 # Pantalla al ganar
-![image](https://imgur.com/EamFAdR)
+![image](https://i.imgur.com/EamFAdR.png)
 
 # Pantalla al perder
-![image](https://imgur.com/MkdzR18)
+![image](https://i.imgur.com/MkdzR18.png)
 
 
