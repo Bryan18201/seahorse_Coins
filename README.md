@@ -6,7 +6,7 @@ Con el movimiento del mouse el caballito de mar te perseguira a cualquier lado d
 guiando al caballito con el dedo. Con el fin de recolectar todas las monedas antes de que se acabe el tiempo que indica en pantalla.
 
 # Menu de inicio 
-![image](https://imgur.com/fAvbbc0)
+![image](https://i.imgur.com/fAvbbc0.png)
 
 # Juego en movimiento
 ![image](https://imgur.com/WL6EKIt)
