@@ -1,5 +1,10 @@
 # Seahorse_Coins - Juego de un caballito de mar que consiste en atrapar todas las monedas antes de que se termine el tiempo
 
+# Tecnologías utilizadas:
+
+-JavaScript
+
+-CSS
 # Controles
 
 Con el movimiento del mouse el caballito de mar te perseguira a cualquier lado donde pongas el mouse y de igual forma se puede utilizar en dispositivos moviles,
